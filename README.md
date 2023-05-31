@@ -1,7 +1,5 @@
 ### Hi I'm 51wangping 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=51wangping&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
-
 I'm a Frontend engineer who enjoys building wheels and playing with some fun stuff.
 
 Blogger, Lifelong learner. 
@@ -25,12 +23,7 @@ Blogger, Lifelong learner.
 <img src="https://img.shields.io/badge/Bootstrap-%237952b3.svg?logo=bootstrap&logoColor=white&style=flat-square" alt="Bootstrap" /> <img src="https://img.shields.io/badge/Tailwindcss-%2338b2ac.svg?logo=tailwind-css&logoColor=white&style=flat-square" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/ant%20design-%230170fe.svg?logo=Ant-design&logoColor=white&style=flat-square" alt="Ant Design" /> <img src="https://img.shields.io/badge/Node.js-%2343853d.svg?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" /> <img src="https://img.shields.io/badge/NPM-%23cb0000.svg?logo=npm&logoColor=white&style=flat-square" alt="npm" /> <img src="https://img.shields.io/badge/Electron-%231572b6.svg?logo=Electron&logoColor=white&style=flat-square" alt="Electron">
 
 
-**Tools**
+### Github status
 
-<img src="https://img.shields.io/badge/Xcode-%23007acc.svg?logo=xcode&logoColor=white&style=flat-square" alt="Xcode" /> <img src="https://img.shields.io/badge/Visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Docker-%23000000.svg?logo=Docker&logoColor=blue&style=flat-square" alt="docker" /> <img src="https://img.shields.io/badge/Github-%23000000.svg?logo=github&logoColor=white&style=flat-square" alt="docker" /> 
-
-
-<p>
-      <img src="https://github-profile-trophy.vercel.app/?username=51wangping&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
-</p>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=51wangping&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=51wangping&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
